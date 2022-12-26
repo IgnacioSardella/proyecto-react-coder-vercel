@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500&display=swap');
+
+
+.navbar{
+    background-color: #00438a !important; 
+}
+.navbar-toggler{
+    font-size: 1rem;
+}
+.cart-widget{
+    font-size: 1.4rem;
+    height: 65px;
+}
+.logo{
+    font-family: 'Jost', 'sans-serif';
+    font-weight: 500;
+    font-size: 1rem;
+    color: #e9bb03;
+    margin-right: 0;
+}
+.navbar-nav{
+    margin-left: 1rem;
+}
+.btn-section{
+    color: white;
+    font-family: 'Jost', 'sans-serif';
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+@media (min-width: 420px){
+    .navbar-toggler{
+        font-size: 1.25rem;
+    }
+    .cart-widget{
+        font-size: 1.8rem;
+        height: 65px;
+    }
+    .logo{
+        font-size: 1.4rem;
+    }
+}
+@media (min-width: 992px){
+    .logo{
+        font-size: 2rem;
+    }
+    .navbar-nav{
+        margin-left: 2.8rem;
+    }
+}

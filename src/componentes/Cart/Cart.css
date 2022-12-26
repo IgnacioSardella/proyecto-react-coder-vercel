@@ -1,0 +1,38 @@
+.emptyCart{
+    width: fit-content;
+    margin-top: 15rem;
+    text-align: center;
+    color: white;
+    font-size: 1.6em;
+    background-color: rgb(0, 0, 0, 0.75);
+    padding: 20px;
+    border-radius: 5px;
+}
+.toHome{
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+}
+
+.cart-container{
+    background-color: hsla(0, 0%, 100%, 0.74);
+    margin-top: 15px;
+    padding-top: 1px;
+}
+.cart-card{
+    background-color: hsla(0, 0%, 100%, 0);
+    border: none;
+    border-bottom: 1px solid gray;
+}
+.img-cart{
+    height: 200px !important;
+}
+
+.totalPrice{
+    color: rgb(0, 0, 0);
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+.btn-vaciar-carrito{
+    width: 217px;
+}

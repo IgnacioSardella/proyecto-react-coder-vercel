@@ -1,0 +1,12 @@
+.contador1{
+    gap: 2vw;
+}
+
+.btn-primary{
+    background-color: #a7a7a7; 
+}
+
+.span-contador{
+    font-size: 1rem;
+    text-align: center;
+}

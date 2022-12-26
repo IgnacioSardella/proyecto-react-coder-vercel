@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "idCategory": "adultos",
+        "nombre": "Camiseta Suplente Boca Juniors 22",
+        "tipo": "Adulto",
+        "precio": 15999,
+        "stock": 8,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-coder-a81be.appspot.com/o/boca-suplente.png?alt=media&token=e3e44336-c8c9-4708-b5aa-fbf76b361e44"
+    },
+
+    {   
+        "id": 2,
+        "idCategory": "adultos",
+        "nombre": "Camiseta Titular River Plate 22", 
+        "tipo": "Adulto", 
+        "precio": 17999, 
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-coder-a81be.appspot.com/o/river-titular.png?alt=media&token=16e57d65-235f-45b7-88cc-b06883044aa8"
+    },
+
+    {   
+        "id": 3,
+        "idCategory": "adultos",
+        "nombre": "Camiseta Titular Argentina 22 Messi ", 
+        "tipo": "Adulto", 
+        "precio": 20999, 
+        "stock": 7,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-coder-a81be.appspot.com/o/argentina-messi.png?alt=media&token=2c693b3c-a7e6-49d7-9d79-9fd3b503aae9"
+    },
+
+    {   
+        "id": 4,
+        "idCategory": "niños",
+        "nombre": "Camiseta Titular Argentina 22 Messi", 
+        "tipo": "Niño", 
+        "precio": 14999, 
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-coder-a81be.appspot.com/o/argentina-messi-ni%C3%B1o.png?alt=media&token=1ee721fc-ed6e-438f-9547-0c29a902a420"
+    },
+
+    {   
+        "id": 5,
+        "idCategory": "shorts",
+        "nombre": "Short Argentina 22 Negro", 
+        "tipo": "Adulto", 
+        "precio": 9999, 
+        "stock": 8,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-coder-a81be.appspot.com/o/short-arg-titular.png?alt=media&token=1a57ec33-7f32-49d7-a539-6a4440502e17"
+    },
+
+    {   
+        "id": 6,
+        "idCategory": "adultos",
+        "nombre": "Camiseta Titular Boca Juniors 22", 
+        "tipo": "Adulto", 
+        "precio": 17999, 
+        "stock": 11,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-coder-a81be.appspot.com/o/boca-titular.png?alt=media&token=7d5b5845-510a-4756-839b-95138b8d4bbc"
+    },
+
+    {   
+        "id": 7,
+        "idCategory": "shorts",
+        "nombre": "Short Argentina 22 Blanco", 
+        "tipo": "Adulto", 
+        "precio": 9999, 
+        "stock": 13,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-coder-a81be.appspot.com/o/short-arg-blanco.png?alt=media&token=7c589a51-fea1-4ea1-8162-eb573680bf41"
+    },
+    
+    {   
+        "id": 8,
+        "idCategory": "adultos",
+        "nombre": "Camiseta Alternativa Real Madrid 22", 
+        "tipo": "Adulto", 
+        "precio": 21999, 
+        "stock": 12,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-coder-a81be.appspot.com/o/rm-altern.png?alt=media&token=bbc2a3a0-ac34-41dc-b598-b19c6148750a"
+    },
+
+    {   
+        "id": 9,
+        "idCategory": "niños",
+        "nombre": "Camiseta Alternativa Argentina 22", 
+        "tipo": "Niño", 
+        "precio": 14999, 
+        "stock": 9,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-coder-a81be.appspot.com/o/arg-violeta.png?alt=media&token=2cec574d-b304-4ade-834f-49c0c20e92cb"
+    },
+
+    {   
+        "id": 10,
+        "idCategory": "shorts",
+        "nombre": "Short Alternativo River Plate 22", 
+        "tipo": "Adulto", 
+        "precio": 8999, 
+        "stock": 7,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-coder-a81be.appspot.com/o/short-river-altern.png?alt=media&token=dc9cd8da-1add-4a63-92e6-78150d1e02d3"
+    },
+
+    {   
+        "id": 11,
+        "idCategory": "niños",
+        "nombre": "Camiseta Titular Boca Juniors 22", 
+        "tipo": "Niño", 
+        "precio": 13999, 
+        "stock": 22,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-coder-a81be.appspot.com/o/boca-titular-ni%C3%B1o.png?alt=media&token=cd4b705d-ca8e-4b33-9dd0-beba1010833f"
+    },
+
+    {   
+        "id": 12,
+        "idCategory": "adultos",
+        "nombre": "Camiseta Suplente Juventus 22", 
+        "tipo": "Adulto", 
+        "precio": 18999, 
+        "stock": 14,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-react-coder-a81be.appspot.com/o/juve-suplente.png?alt=media&token=a068722a-b8ff-4a36-9955-de8b132b1236"
+    }
+]
